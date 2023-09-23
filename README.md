@@ -1,4 +1,3 @@
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
 <h1 align="center">Hi 👋, I'm Nam Nguyễn</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
