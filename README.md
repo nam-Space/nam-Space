@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nam Nguyễn</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate Web Developer from Vietnam</h3>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
